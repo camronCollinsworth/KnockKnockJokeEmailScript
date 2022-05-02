@@ -1,5 +1,5 @@
 # KnockKnockJokeEmailScript
-Will automatically email a knock knock joke to a person using a list of jokes
+Will automatically email a knock knock joke to a person using a list of jokes. <br>Please note that this code is a bit of a mess.
 
 
 # Manifest
