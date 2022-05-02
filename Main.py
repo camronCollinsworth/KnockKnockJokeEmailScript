@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 def main():
 
-    github_repo = "tbd"
+    github_repo = "https://github.com/camronCollinsworth/KnockKnockJokeEmailScript"
 
     ##  GET INFO FROM .env FILE  ##
     load_dotenv()
