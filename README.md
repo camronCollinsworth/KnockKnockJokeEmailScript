@@ -10,6 +10,7 @@ Will automatically email a knock knock joke to a person using a list of jokes
 ./.gitignore - Git config file <br><br>
 ./Main.py - Main python script<br><br>
 ./README.md - This file<br><br>
+./SAMPLE_ENV - Sample environment variable file<br><br>
 ./install - Install script for related dependencies
 
 
