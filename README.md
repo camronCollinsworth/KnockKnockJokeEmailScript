@@ -4,7 +4,7 @@ Will automatically email a knock knock joke to a person using a list of jokes
 
 # Manifest
 
-./resources - Directory contains information needed by python script <br>
+./resources/ - Directory contains information needed by python script <br>
 &nbsp;&nbsp;&nbsp;- ./database - Contains information used to track jokes <br>
 &nbsp;&nbsp;&nbsp;- ./jokes - Contains list of jokes. Can be edited if following same format <br><br>
 ./.gitignore - Git config file <br><br>
