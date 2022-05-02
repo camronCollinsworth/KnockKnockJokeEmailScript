@@ -41,3 +41,5 @@ Finally, run the script to send a single knock knock joke email:
 
 This will only work with gmail accounts that have been set up to use less secure apps applications through security settings and
 have generated a password key for the script. See less secure apps and app passwords.
+
+[https://www.youtube.com/watch?v=0zVzFadvEYk](app passwords) - The first half of this video will show what is needed
