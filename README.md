@@ -23,7 +23,7 @@ commands:
  $ chmod +x install <br>
  $ ./install
  
- Note that you may have to run the install script as sudo
+Note that you may have to run the install script as sudo
  
 After that, create a .env file. Do this by copying the sample file and changing its attributes. First use:
 
@@ -32,6 +32,10 @@ After that, create a .env file. Do this by copying the sample file and changing 
 This will create the proper .env file for use with the script. Next, edit the file to contain valid information. Open 
 in an editor and change the EMAIL value to the sender address, the PASS to the password of the sender's account, and the
 TO value to the intended recipient of the mail. 
+
+Finally, run the script to send a single knock knock joke email:
+
+ $ python3 Main.py
 
 (NOTE!)
 
